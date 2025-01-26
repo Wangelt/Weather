@@ -1,0 +1,23 @@
+.infoBox{
+    text-align: center;
+    
+}
+
+.card{
+    text-align: left;}
+
+.info{
+    font-size: large !important;
+}
+.info:hover{
+  font-size: 50px !important;
+  transition: 1.5s;
+}
+.photo{
+    opacity: .8;
+}
+.photo:hover{
+    overflow: inherit;
+    opacity: 1;
+    transition: 3S;
+}
