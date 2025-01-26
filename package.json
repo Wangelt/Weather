@@ -1,8 +1,5 @@
 
 {
-  "scripts": {
-  "start": "node src/app.js"
-},
   "name": "mini-project",
   "private": true,
   "version": "0.0.0",
